@@ -69,4 +69,4 @@
 
 ## 
 
-![Profile views counter](https://komarev.com/ghpvc/?username=assem-khaled&&style=flat-square)  
+![Profile views counter](https://komarev.com/ghpvc/?username=assem-khaled&&style=flat)  
