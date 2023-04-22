@@ -14,7 +14,8 @@
 - 📫 How to reach me assem.khaled10@gmail.com  
   
 
-- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1YoaenitjLbr-gsilSrpG8D_VQM1oxhtu/view?usp=sharing)  
+- 📄 Know about my experiences [Machine Learning Resume](https://drive.google.com/file/d/1IzsHSOHTJQ806rzyk2UvJAItJUEsDCZ7/view?usp=share_link)
+, [Embedded Software Resume](https://drive.google.com/file/d/1hrX48OiFiIv_bAf_93jsTOw0DiOFpyGg/view?usp=sharing).  
   
 
 <br/>  
