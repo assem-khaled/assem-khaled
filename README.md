@@ -3,7 +3,7 @@
 </div>  
   
 
-# **<div align="center">I'm Assem Khaled👋</div>**  
+# **<div align="center">Hi 👋, I'm Assem Khaled</div>**  
 
 ### <div align="center">A Passionate Machine learning and Embedded systems Engineer</div>  
   
@@ -71,4 +71,6 @@
 
 ## 
 
-![Profile views counter](https://komarev.com/ghpvc/?username=assem-khaled&&style=flat)  
+<div align="center">
+<img src="https://komarev.com/ghpvc/?username=assem-khaled&&style=flat-square" align="center" />
+</div>  
